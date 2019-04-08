@@ -1,0 +1,7 @@
+Django==2.1.7
+django-filter==2.1.0
+django-rest-auth==0.9.3
+djangorestframework==3.9.2
+python-magic==0.4.15
+pytz==2018.9
+six==1.12.0
